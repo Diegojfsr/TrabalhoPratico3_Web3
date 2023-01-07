@@ -4,12 +4,14 @@
   <img alt="Vue logo" src="../assets/logo.png">
   <h1>Lista de Produtos</h1>
 
+
+
   <ul class="nav nav-pills">
     <li class="nav-item">
-      <a class="nav-link active" href="#">Produtos</a>
+      <a class=" nav-link btn btn-primary btn-sm mr-2" href="#"> Produtos </a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">Formulario</a>
+      <a class=" nav-link btn btn-outline-primary btn-sm  mr-2" href="#">Formulario</a>
     </li>
   </ul>
   <br>
